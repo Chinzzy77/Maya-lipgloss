@@ -1,0 +1,15 @@
+#image{
+    height: 450px;
+    object-fit: cover;
+    filter: brightness(0.8);
+}
+#text{
+    height: 180px;
+}
+#textt{
+    height: 180px;
+}
+#container{
+    background-color: burlywood;
+    
+}
